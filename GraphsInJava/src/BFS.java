@@ -1,3 +1,12 @@
+/*
+
+TC : O(V+E)
+SC : O(V)	
+V = no. of vertices
+E = no. of edges	
+
+*/
+
 import java.util.*;
 public class BFS {
 	
